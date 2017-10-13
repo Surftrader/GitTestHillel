@@ -1,2 +1,1 @@
-"My first project. And I`m happy about it"
-
+"My first project"
